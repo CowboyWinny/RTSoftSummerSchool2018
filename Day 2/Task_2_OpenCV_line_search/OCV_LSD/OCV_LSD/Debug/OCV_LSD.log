@@ -1,0 +1,2 @@
+﻿  Line_highlighter.cpp
+c:\users\cowbo\documents\c++\rtsoftsummerschool\day 2\task_2_opencv_line_search\ocv_lsd\ocv_lsd\line_highlighter.cpp(4): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
